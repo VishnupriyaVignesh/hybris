@@ -1,0 +1,2 @@
+﻿${ctx.messages.getMessage('emailSubject', ${ctx.displayName})}
+Your Gold Cart is about to eligible for 20% discount
